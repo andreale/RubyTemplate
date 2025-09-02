@@ -1,8 +1,10 @@
+# frozen_string_literal: true
+
 # Documentation of this model
 class MyModel
-  attr_reader :x
+  attr_reader :param
 
-  def initialize(x)
-    @x = x
+  def initialize(param)
+    @param = param
   end
 end
