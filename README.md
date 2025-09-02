@@ -16,7 +16,7 @@ A simple template for Ruby projects.
 
 * `bundle`
 
-## How to run the test suite:
+## How to run the test suite
 
 * `rspec`
 

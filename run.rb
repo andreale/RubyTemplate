@@ -8,4 +8,4 @@ require_relative 'lib/application'
 input = $stdin.read
 my_model = MyModel.new(input)
 
-puts "X = #{my_model.x}"
+puts "param = #{my_model.param}"
